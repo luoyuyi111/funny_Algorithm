@@ -6,6 +6,7 @@ struct List{
 	List *pre;
 }
 class LinkList{
+public:
 	LinkList();
 	~ LinkList();
 	void insertdata1(int u);
