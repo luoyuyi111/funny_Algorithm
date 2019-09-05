@@ -1,2 +1,19 @@
 # funny_Algorithm
-Algorithm&amp;Data_Stuct
+
+- [ ] Ensemble-learning
+- [ ] LDA
+- [ ] MLE
+- [ ] Markov
+- [ ] PCV
+- [ ] Qlearning
+- [ ] SVM
+- [ ] bayes
+- [ ] huffman
+- [x] linklist
+- [ ] map
+- [ ] nero-network
+- [ ] picture
+- [ ] picture
+- [ ] stack
+- [ ] tree
+- [ ] vector
